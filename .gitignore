@@ -19,7 +19,8 @@
 #################  
 
 *.depend  
-*.layout  
+*.layout 
+*.cbp
 
 ############  
 ## Windows  
