@@ -13,6 +13,10 @@
 *.app/  
 *.pyc  
 *.log  
+*.db
+*.sln
+*.vs
+*.vcxproj*
 
 #################  
 ## Code::Blocks  
